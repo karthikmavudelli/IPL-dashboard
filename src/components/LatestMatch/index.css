@@ -1,0 +1,31 @@
+.latest-match-card {
+  background-color: #0f172a;
+  width: 100%;
+  padding: 15px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.match-details-text {
+  color: #ffffff;
+  font-family: 'Bree serif';
+  font-size: 18px;
+}
+.competing-team-text {
+  font-size: 30px;
+}
+.competing-team-logo {
+  width: 25%;
+}
+.result-container {
+  display: flex;
+  flex-direction: column;
+}
+.right-text {
+  text-align: right;
+}
+.headings {
+  font-size: 25px;
+  margin-bottom: 0px;
+}

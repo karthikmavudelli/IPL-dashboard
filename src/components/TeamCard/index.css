@@ -1,0 +1,32 @@
+.team-list-item {
+  background-color: #ffffff33;
+  border: 2px #ffffff33 solid;
+  border-radius: 10px;
+  width: 40%;
+  margin-bottom: 10px;
+  height: 20%;
+  margin-right: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  text-decoration: none;
+}
+.team-image {
+  width: 20%;
+  height: 80%;
+}
+
+.team-name {
+  text-decoration: none;
+  color: #ffffff;
+  font-family: 'Bree serif';
+}
+@media (max-width: 767px) {
+  .team-image {
+    width: 30%;
+  }
+  .team-name {
+    text-align: right;
+  }
+}

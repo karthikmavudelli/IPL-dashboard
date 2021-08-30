@@ -1,0 +1,25 @@
+.recent-matches-list-item {
+  background-color: #0f172a;
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 15px;
+  margin-bottom: 20px;
+  padding-bottom: 0px;
+  border-radius: 20px;
+}
+.recent-matches-image {
+  width: 60%;
+  height: 40%;
+}
+.green-text {
+  color: #18ed66;
+}
+.red-text {
+  color: #e31a1a;
+}
+.right-text {
+  text-align: center;
+}
